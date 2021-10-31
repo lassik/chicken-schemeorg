@@ -6,4 +6,4 @@
  (category web)
  (license "MIT")
  (author "Lassi Kortela")
- (dependencies cjson http-client medea pandoc r7rs))
+ (dependencies cjson http-client medea openssl pandoc r7rs))
