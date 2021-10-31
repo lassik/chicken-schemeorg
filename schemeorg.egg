@@ -6,4 +6,6 @@
  (category web)
  (license "MIT")
  (author "Lassi Kortela")
- (dependencies cjson http-client medea openssl pandoc r7rs))
+ (dependencies
+  cjson http-client lowdown medea openssl pandoc r7rs spiffy
+  srfi-1 srfi-13 srfi-132 ssax sxpath-lolevel))
