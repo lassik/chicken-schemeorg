@@ -1,0 +1,7 @@
+;;; -*- Scheme -*-
+
+;;; This file is used by CHICKEN's henrietta-cache.
+
+(repo git "git://github.com/lassik/chicken-{egg-name}.git")
+(uri targz "https://github.com/lassik/chicken-{egg-name}/tarball/{egg-release}")
+(release "0.1")

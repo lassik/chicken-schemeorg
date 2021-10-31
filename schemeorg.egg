@@ -1,0 +1,9 @@
+;;; -*- Scheme -*-
+
+;;; This file is used by CHICKEN 5's chicken-install.
+
+((synopsis "Everything needed to work on the Scheme.org website")
+ (category web)
+ (license "MIT")
+ (author "Lassi Kortela")
+ (dependencies cjson http-client medea pandoc r7rs))
